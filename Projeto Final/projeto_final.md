@@ -22,3 +22,10 @@ Em seguida, nos propomos a procurar o dataset com as imagens das casas.
 Após a escolha randômica das imagens coletadas, seguimos o processo de separação das mesmas no mesmo esquema de pastas realizado para o dataset 1.
 
 Link do dataset 2 original: https://images.cv/dataset/house-image-classification-dataset
+
+
+
+
+# Alunos
+Matheus Lobo - mlva@cesar.school
+Paulo Cavalcanti - pfbc@cesar.school
